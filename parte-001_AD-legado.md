@@ -83,3 +83,16 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
 ---
 
 📌 *Esse primeiro estágio simula empresas que ainda operam com servidores antigos e enfrentam o desafio de atualizar sua infraestrutura sem causar impacto no ambiente de produção.*
+
+PRINTS:
+
+![001](https://github.com/user-attachments/assets/315f847d-7bb1-4262-93d9-ad64acfd0508)
+![002 - WIN SRV 2012 - AD](https://github.com/user-attachments/assets/612a0aa7-bf7b-4648-b456-4206b5bc8181)
+![003 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/247ccfe6-8a83-4618-9e0f-242c7e82e62d)
+![004 - CRIAÇAO OUS](https://github.com/user-attachments/assets/cb493e74-f06b-492d-afee-5162e085411f)
+![005- CRIAÇAO USER BIG BOSS](https://github.com/user-attachments/assets/1108d7a0-c224-4f88-aa86-511c10ee481a)
+![006 - CRIAÇAO USERS E GROUPS FINANCE](https://github.com/user-attachments/assets/19ebcad6-8f6d-4f06-9d7d-1277d65b289e)
+![007 - CRIAÇAO USERS E GROUPS HR](https://github.com/user-attachments/assets/3c2a80ab-5c59-4795-b4e4-23e9e483e0ed)
+![008 - CRIAÇAO USERS E GROUPS IT](https://github.com/user-attachments/assets/9746b4e1-4bf3-4fa6-b069-ca090f603517)
+![009 - CRIAÇAO USERS E GROUPS - SALES](https://github.com/user-attachments/assets/2cab9476-436d-4c92-8934-d530b49cd6ca)
+![010 - CRIAÇAO DE SECURITY GROUPS](https://github.com/user-attachments/assets/9e4fe940-ef66-4b7f-a4d6-bec214566c84)
