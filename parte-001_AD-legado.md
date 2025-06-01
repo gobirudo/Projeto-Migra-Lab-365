@@ -14,7 +14,7 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
 
 ---
 
- 🗂️ Estrutura de OUs Criadas
+🗂️ Estrutura de OUs Criadas
 
 📁 OFFICE
 ├── 📁 FINANCE
