@@ -19,11 +19,11 @@
  Implementação do iSCSI Initiator no FILESERVER01 para conexão e mapeamento das LUNs do storage.
  Configuração do compartilhamento de rede principal: 
     Unidade FILESHARE (Z:)
-    📁 OFFICE (Compartilhamento Principal)
-    ├── 📁 FINANCE
-    ├── 📁 HR
-    ├── 📁 IT
-    └── 📁 SALES
+- 📁 OFFICE (Compartilhamento Principal)
+  - 📁 FINANCE
+  - 📁 HR
+  - 📁 IT
+  - 📁 SALES
 
 
  Alinhadas às políticas de segurança e grupos de permissões definidos no Active Directory.
