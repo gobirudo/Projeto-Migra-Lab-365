@@ -1,6 +1,6 @@
 + PARTE 002  Expansão do Ambiente e Configuração do File Server
 
-## 1. Configuração do Segundo Controlador de Domínio (ADDS001)
+## 1. Configuração do Segundo Controlador de Domínio (ADDS-001)
 
  Implantação de um segundo Domain Controller com Windows Server 2022 para modernização da infraestrutura.
  Promoção do servidor a controlador de domínio e verificação completa da replicação de objetos entre o ADDS000 (Server 2012) e o ADDS001 (Server 2022).
@@ -9,7 +9,7 @@
  Configuração e monitoramento da replicação do diretório ativo com o Entra ID.
  Validação de logins e autenticação dos usuários sincronizados, garantindo a integridade e funcionamento do ambiente híbrido.
 
-## 2. Criação e Configuração do File Server (FILESERVER01)
+## 2. Criação e Configuração do File Server (FILESERVER)
 
  Provisionamento de VM Windows Server 2022 destinada ao serviço de arquivos corporativos.
  Configuração do Storage HP P4000 via Centralized Management Console (CMC), utilizando SSD externo para armazenamento dedicado.
