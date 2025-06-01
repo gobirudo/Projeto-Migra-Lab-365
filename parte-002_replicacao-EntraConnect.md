@@ -11,13 +11,13 @@
 
 ## 2. Criação e Configuração do File Server (FILESERVER)
 
- Provisionamento de VM Windows Server 2022 destinada ao serviço de arquivos corporativos.
- Configuração do Storage HP P4000 via Centralized Management Console (CMC), utilizando SSD externo para armazenamento dedicado.
- Criação e alocação de duas LUNs de 50GB cada:
+- Provisionamento de VM Windows Server 2022 destinada ao serviço de arquivos corporativos.
+- Configuração do Storage HP P4000 via Centralized Management Console (CMC), utilizando SSD externo para armazenamento dedicado.
+- Criação e alocação de duas LUNs de 50GB cada:
    LUN 1: Volume principal para compartilhamento de arquivos (FileShare).
    LUN 2: Volume reservado para armazenamento de backups futuros.
- Implementação do iSCSI Initiator no FILESERVER01 para conexão e mapeamento das LUNs do storage.
- Configuração do compartilhamento de rede principal: 
+- Implementação do iSCSI Initiator no FILESERVER01 para conexão e mapeamento das LUNs do storage.
+- Configuração do compartilhamento de rede principal: 
     Unidade FILESHARE (Z:)
 - 📁 OFFICE (Compartilhamento Principal)
   - 📁 FINANCE
