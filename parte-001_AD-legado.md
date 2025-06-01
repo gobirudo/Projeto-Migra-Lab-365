@@ -16,40 +16,40 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
 
 🗂️ Estrutura de OUs Criadas
 
-📁 OFFICE
-├── 📁 FINANCE
-│   ├── 👤 FINANCE.USER.001
-│   ├── 👤 FINANCE.MANAGER.001
-│   ├── 👥 GR_FINANCE_USERS
-│   └── 👥 GR_FINANCE_MANAGERS
-├── 📁 HR - HUMAN RESOURCES
-│   ├── 👤 HR.USER.001
-│   ├── 👤 HR.MANAGER.001
-│   ├── 👥 GR_HR_USERS
-│   └── 👥 GR_HR_MANAGERS
-├── 📁 IT - TECHNOLOGY
-│   ├── 👤 IT.USER.001
-│   ├── 👤 IT.MANAGER.001
-│   ├── 👥 GR_IT_USERS
-│   └── 👥 GR_IT_MANAGERS
-├── 📁 SALES
-│   ├── 👤 SALES.USER.001
-│   ├── 👤 SALES.MANAGER.001
-│   ├── 👥 GR_SALES_USERS
-│   └── 👥 GR_SALES_MANAGERS
-├── 📁 CEO
-│   └── 👤 BIG.BOSS
+- 📁 OFFICE
+  - 📁 FINANCE
+    - 👤 FINANCE.USER.001
+    - 👤 FINANCE.MANAGER.001
+    - 👥 GR_FINANCE_USERS
+    - 👥 GR_FINANCE_MANAGERS
+  - 📁 HR - HUMAN RESOURCES
+    - 👤 HR.USER.001
+    - 👤 HR.MANAGER.001
+    - 👥 GR_HR_USERS
+    - 👥 GR_HR_MANAGERS
+  - 📁 IT - TECHNOLOGY
+    - 👤 IT.USER.001
+    - 👤 IT.MANAGER.001
+    - 👥 GR_IT_USERS
+    - 👥 GR_IT_MANAGERS
+  - 📁 SALES
+    - 👤 SALES.USER.001
+    - 👤 SALES.MANAGER.001
+    - 👥 GR_SALES_USERS
+    - 👥 GR_SALES_MANAGERS
+  - 📁 CEO
+    - 👤 BIG.BOSS
 
-📁 SECURITY GROUPS
-├── 🔒 GR_DATA_FINANCE_READ
-├── 🔒 GR_DATA_FINANCE_WRITE
-├── 🔒 GR_DATA_HR_READ
-├── 🔒 GR_DATA_HR_WRITE
-├── 🔒 GR_DATA_IT_READ
-├── 🔒 GR_DATA_IT_WRITE
-├── 🔒 GR_DATA_SALES_READ
-├── 🔒 GR_DATA_SALES_WRITE
-└── 🧾 GR_M365_LICENCES
+- 📁 SECURITY GROUPS
+  - 🔒 GR_DATA_FINANCE_READ
+  - 🔒 GR_DATA_FINANCE_WRITE
+  - 🔒 GR_DATA_HR_READ
+  - 🔒 GR_DATA_HR_WRITE
+  - 🔒 GR_DATA_IT_READ
+  - 🔒 GR_DATA_IT_WRITE
+  - 🔒 GR_DATA_SALES_READ
+  - 🔒 GR_DATA_SALES_WRITE
+  - 🧾 GR_M365_LICENCES
 
 ✅ Ícones pra facilitar:
 
