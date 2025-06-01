@@ -10,4 +10,4 @@
 
 📌 Diagrama da Arquitetura:  
 
-![PROJEMIG365](https://github.com/user-attachments/assets/f85d852f-dd97-4957-a0c3-e05e1a63c001)
+![PROJEMIG365](https://github.com/user-attachments/assets/1c5f2e23-7d46-4e0b-adfd-be9c4cde6305)
