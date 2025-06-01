@@ -2,12 +2,12 @@
 
 ## 1. Configuração do Segundo Controlador de Domínio (ADDS-001)
 
- Implantação de um segundo Domain Controller com Windows Server 2022 para modernização da infraestrutura.
- Promoção do servidor a controlador de domínio e verificação completa da replicação de objetos entre o ADDS000 (Server 2012) e o ADDS001 (Server 2022).
- Criação de usuário de serviço com privilégios de Administrador Global, necessário para configuração do Azure Entra Connect.
- Autenticação no portal Azure e instalação da ferramenta Azure Entra Connect para sincronização de identidades locais com o Entra ID (Azure AD).
- Configuração e monitoramento da replicação do diretório ativo com o Entra ID.
- Validação de logins e autenticação dos usuários sincronizados, garantindo a integridade e funcionamento do ambiente híbrido.
+ - Implantação de um segundo Domain Controller com Windows Server 2022 para modernização da infraestrutura.
+ - Promoção do servidor a controlador de domínio e verificação completa da replicação de objetos entre o ADDS000 (Server 2012) e o ADDS001 (Server 2022).
+ - Criação de usuário de serviço com privilégios de Administrador Global, necessário para configuração do Azure Entra Connect.
+ - Autenticação no portal Azure e instalação da ferramenta Azure Entra Connect para sincronização de identidades locais com o Entra ID (Azure AD).
+ - Configuração e monitoramento da replicação do diretório ativo com o Entra ID.
+ - Validação de logins e autenticação dos usuários sincronizados, garantindo a integridade e funcionamento do ambiente híbrido.
 
 ## 2. Criação e Configuração do File Server (FILESERVER)
 
