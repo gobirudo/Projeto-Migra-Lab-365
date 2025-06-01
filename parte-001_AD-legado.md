@@ -49,7 +49,7 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
   - 🔒 GR_DATA_IT_WRITE
   - 🔒 GR_DATA_SALES_READ
   - 🔒 GR_DATA_SALES_WRITE
-  - 🧾 GR_M365_LICENCES
+  - 🔒 GR_M365_LICENCES
 
 ✅ Ícones pra facilitar:
 
@@ -57,8 +57,6 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
 👤 = Usuário
 👥 = Grupo de distribuição/local
 🔒 = Grupo de segurança
-🧾 = Grupo de licenciamento
-
 
 ---
 
