@@ -40,16 +40,16 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
   - 📁 CEO
     - 👤 BIG.BOSS
 
-- 📁 SECURITY GROUPS
-  - 🔒 GR_DATA_FINANCE_READ
-  - 🔒 GR_DATA_FINANCE_WRITE
-  - 🔒 GR_DATA_HR_READ
-  - 🔒 GR_DATA_HR_WRITE
-  - 🔒 GR_DATA_IT_READ
-  - 🔒 GR_DATA_IT_WRITE
-  - 🔒 GR_DATA_SALES_READ
-  - 🔒 GR_DATA_SALES_WRITE
-  - 🔒 GR_M365_LICENCES
+  - 📁 SECURITY GROUPS
+    - 🔒 GR_DATA_FINANCE_READ
+    - 🔒 GR_DATA_FINANCE_WRITE
+    - 🔒 GR_DATA_HR_READ
+    - 🔒 GR_DATA_HR_WRITE
+    - 🔒 GR_DATA_IT_READ
+    - 🔒 GR_DATA_IT_WRITE
+    - 🔒 GR_DATA_SALES_READ
+    - 🔒 GR_DATA_SALES_WRITE
+    - 🔒 GR_M365_LICENCES
 
 ✅ Ícones pra facilitar:
 
