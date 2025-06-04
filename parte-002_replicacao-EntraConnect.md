@@ -36,29 +36,29 @@
 - Acesso ao servidor ADDS-001 (win2022)
 ![001 - WIN SRV 2022 - ADDS-001](https://github.com/user-attachments/assets/e63152ee-ab2e-4e13-8ffe-c0ba05df91a1)
 
-- Ingresso ao domínio, padronizado nome e IP.
+- Ingresso ao domínio, padronizado nome e IP
 ![002 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/b7269322-cfd5-4071-ac16-4e163b5cd825)
 
 - Confirmação dos Domains Controlers
 ![003 - DOMAIN CONTROLERS](https://github.com/user-attachments/assets/b9e04339-34e4-4292-aeb6-51b2a17f9e99)
-
-- Login com a conta de serviço criada para fazer a sincronização entre o AD Local e o Entra-ID (com permissão de Global Administrator).
+.
+- Login com a conta de serviço criada para fazer a sincronização entre o AD Local e o Entra-ID (com permissão de Global Administrator)
 ![004 - USER SVC GLOBAL ADMIN](https://github.com/user-attachments/assets/ef8e88e1-d613-4602-a34e-d4645c7c8c94)
 
-- Agora é necessário fazer login com a conta e ir na página para fazer o download da ferramenta Entra Connect.
+- Agora é necessário fazer login com a conta e ir na página para fazer o download da ferramenta Entra Connect
 ![005 - ENTRA CONNECT PART 001](https://github.com/user-attachments/assets/8f166f9c-7cad-43a3-ab65-aed9f399f0ba)
 
 ![006 - ENTRA CONNECT PART 002](https://github.com/user-attachments/assets/1d343ed8-01d8-4d56-a501-d3dda21a5fb9)
 
 ![007 - ENTRA CONNECT](https://github.com/user-attachments/assets/cc3f25fd-8106-48ae-a046-505d9d12428f)
 
-- Confirmação dos usuários sincronizados do AD Local para o Entra-ID.
+- Confirmação dos usuários sincronizados do AD Local para o Entra-ID
 ![008 - USERS REPLICADOS](https://github.com/user-attachments/assets/424a0d49-d7b3-4d9e-b641-06d091392a11)
 
-- Confirmação dos grupos sincronizados do AD Local para o Entra-ID.
+- Confirmação dos grupos sincronizados do AD Local para o Entra-ID
 ![009 - GRUPOS REPLICADOS](https://github.com/user-attachments/assets/c3e069d2-6de5-44d5-ae97-b2a7ff3a3603)
 
-
+- Configuração das licenças através do portal: Microsoft 365 admin center
 ![010 - LICENÇA GRUP - PARTE 01](https://github.com/user-attachments/assets/a6867185-cc5e-482d-95cb-914952c65408)
 ![011 - LICENÇA GRUP - PARTE 02](https://github.com/user-attachments/assets/78b10c9e-d4cc-47be-802d-f30ad3c22a23)
 ![012 - LICENÇA GRUP - PARTE 03](https://github.com/user-attachments/assets/5bec9e05-aa50-4672-990d-5665ac3f9230)
