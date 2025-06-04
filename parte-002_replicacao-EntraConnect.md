@@ -35,16 +35,22 @@
 
 - Acesso ao servidor ADDS-001 (win2022)
 ![001 - WIN SRV 2022 - ADDS-001](https://github.com/user-attachments/assets/e63152ee-ab2e-4e13-8ffe-c0ba05df91a1)
-- Ingresso ao domínio, padronizado nome e IP.
+
+- Ingresso ao domínio, padronizado nome e IP.- 
 ![002 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/b7269322-cfd5-4071-ac16-4e163b5cd825)
+
 - Confirmação dos Domains Controlers
 ![003 - DOMAIN CONTROLERS](https://github.com/user-attachments/assets/b9e04339-34e4-4292-aeb6-51b2a17f9e99)
+
 - Login com a conta de serviço criada para fazer a sincronização entre o AD Local e o Entra-ID (com permissão de Global Administrator).
 ![004 - USER SVC GLOBAL ADMIN](https://github.com/user-attachments/assets/ef8e88e1-d613-4602-a34e-d4645c7c8c94)
+
 - Agora é necessário fazer login com a conta e ir na página para fazer o download da ferramenta Entra Connect.
 ![005 - ENTRA CONNECT PART 001](https://github.com/user-attachments/assets/8f166f9c-7cad-43a3-ab65-aed9f399f0ba)
+
 - Confirmação dos usuários sincronizados do AD Local para o Entra-ID.
 ![006 - ENTRA CONNECT PART 002](https://github.com/user-attachments/assets/1d343ed8-01d8-4d56-a501-d3dda21a5fb9)
+
 - Confirmação dos grupos sincronizados do AD Local para o Entra-ID.
 ![007 - ENTRA CONNECT](https://github.com/user-attachments/assets/cc3f25fd-8106-48ae-a046-505d9d12428f)
 
