@@ -7,6 +7,7 @@
  - Criação de usuário de serviço com privilégios de Administrador Global, necessário para configuração do Azure Entra Connect.
  - Autenticação no portal Azure e instalação da ferramenta Azure Entra Connect para sincronização de identidades locais com o Entra ID (Azure AD).
  - Configuração e monitoramento da replicação do diretório ativo com o Entra ID.
+ - Configuração das licenças para os usuários através do grupo GR_M365_LICENCES.
  - Validação de logins e autenticação dos usuários sincronizados, garantindo a integridade e funcionamento do ambiente híbrido.
 
 ## 2. Criação e Configuração do File Server (FILESERVER)
@@ -30,14 +31,23 @@
  Realização de testes de acesso e validação das permissões aplicadas, assegurando que cada departamento possui o controle correto sobre seus dados.
 
  
+---
 
+- Acesso ao servidor ADDS-001 (win2022)
 ![001 - WIN SRV 2022 - ADDS-001](https://github.com/user-attachments/assets/e63152ee-ab2e-4e13-8ffe-c0ba05df91a1)
+- Ingresso ao domínio, padronizado nome e IP.
 ![002 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/b7269322-cfd5-4071-ac16-4e163b5cd825)
+- Confirmação dos Domains Controlers
 ![003 - DOMAIN CONTROLERS](https://github.com/user-attachments/assets/b9e04339-34e4-4292-aeb6-51b2a17f9e99)
+- Login com a conta de serviço criada para fazer a sincronização entre o AD Local e o Entra-ID (com permissão de Global Administrator).
 ![004 - USER SVC GLOBAL ADMIN](https://github.com/user-attachments/assets/ef8e88e1-d613-4602-a34e-d4645c7c8c94)
+- Agora é necessário fazer login com a conta e ir na página para fazer o download da ferramenta Entra Connect.
 ![005 - ENTRA CONNECT PART 001](https://github.com/user-attachments/assets/8f166f9c-7cad-43a3-ab65-aed9f399f0ba)
+- Confirmação dos usuários sincronizados do AD Local para o Entra-ID.
 ![006 - ENTRA CONNECT PART 002](https://github.com/user-attachments/assets/1d343ed8-01d8-4d56-a501-d3dda21a5fb9)
+- Confirmação dos grupos sincronizados do AD Local para o Entra-ID.
 ![007 - ENTRA CONNECT](https://github.com/user-attachments/assets/cc3f25fd-8106-48ae-a046-505d9d12428f)
+
 ![008 - USERS REPLICADOS](https://github.com/user-attachments/assets/424a0d49-d7b3-4d9e-b641-06d091392a11)
 ![009 - GRUPOS REPLICADOS](https://github.com/user-attachments/assets/c3e069d2-6de5-44d5-ae97-b2a7ff3a3603)
 ![010 - LICENÇA GRUP - PARTE 01](https://github.com/user-attachments/assets/a6867185-cc5e-482d-95cb-914952c65408)
