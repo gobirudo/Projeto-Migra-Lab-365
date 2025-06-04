@@ -36,10 +36,10 @@
 - Acesso ao servidor ADDS-001 (win2022)
 ![001 - WIN SRV 2022 - ADDS-001](https://github.com/user-attachments/assets/e63152ee-ab2e-4e13-8ffe-c0ba05df91a1)
 
-- Ingresso ao domínio, padronizado nome e IP
+- Ingresso ao domínio, padronizado nome e IP e confirmação dos Domains Controlers
 ![002 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/b7269322-cfd5-4071-ac16-4e163b5cd825)
 
-- Confirmação dos Domains Controlers
+
 ![003 - DOMAIN CONTROLERS](https://github.com/user-attachments/assets/b9e04339-34e4-4292-aeb6-51b2a17f9e99)
 .
 - Login com a conta de serviço criada para fazer a sincronização entre o AD Local e o Entra-ID (com permissão de Global Administrator)
@@ -63,6 +63,8 @@
 ![011 - LICENÇA GRUP - PARTE 02](https://github.com/user-attachments/assets/78b10c9e-d4cc-47be-802d-f30ad3c22a23)
 ![012 - LICENÇA GRUP - PARTE 03](https://github.com/user-attachments/assets/5bec9e05-aa50-4672-990d-5665ac3f9230)
 ![013 - LICENÇA GRUP - PARTE 04](https://github.com/user-attachments/assets/1f6b5745-412f-4797-a887-55c2f26cd403)
+
+- Confirmação das licenças atribuidas aos grupos e usuários.
 ![014 - LICENÇA GRUP - PARTE 05](https://github.com/user-attachments/assets/ae78ad6b-5676-48f6-89e6-f60515a60d18)
 ![015 - LICENÇA GRUP - PARTE 06](https://github.com/user-attachments/assets/5471c8cd-60bd-4938-bd45-4217b71d8544)
 
