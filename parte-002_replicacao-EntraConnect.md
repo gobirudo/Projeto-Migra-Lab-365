@@ -29,7 +29,9 @@
  Alinhadas às políticas de segurança e grupos de permissões definidos no Active Directory.
  Realização de testes de acesso e validação das permissões aplicadas, assegurando que cada departamento possui o controle correto sobre seus dados.
 
- ![001 - WIN SRV 2022 - ADDS-001](https://github.com/user-attachments/assets/e63152ee-ab2e-4e13-8ffe-c0ba05df91a1)
+ 
+
+![001 - WIN SRV 2022 - ADDS-001](https://github.com/user-attachments/assets/e63152ee-ab2e-4e13-8ffe-c0ba05df91a1)
 ![002 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/b7269322-cfd5-4071-ac16-4e163b5cd825)
 ![003 - DOMAIN CONTROLERS](https://github.com/user-attachments/assets/b9e04339-34e4-4292-aeb6-51b2a17f9e99)
 ![004 - USER SVC GLOBAL ADMIN](https://github.com/user-attachments/assets/ef8e88e1-d613-4602-a34e-d4645c7c8c94)
