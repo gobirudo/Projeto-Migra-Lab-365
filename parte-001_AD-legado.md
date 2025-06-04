@@ -94,7 +94,7 @@ PRINTS:
 ![002 - WIN SRV 2012 - AD](https://github.com/user-attachments/assets/612a0aa7-bf7b-4648-b456-4206b5bc8181)
 
 - Foi realizado a pradronização de nome e endereço IP para o controlador de dominio já configurado com a nova floresta do active directory.
- 
+- 
 ![003 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/247ccfe6-8a83-4618-9e0f-242c7e82e62d)
 
 - Criação das unidades organizacionais, simulando um ambiente empresarial real.
