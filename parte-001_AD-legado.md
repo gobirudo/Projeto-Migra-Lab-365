@@ -87,19 +87,19 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
 PRINTS:
 
 - Utilização do VMWare worksatation para a criação das máquinas virtuais: 
-_ 
+
 ![001](https://github.com/user-attachments/assets/315f847d-7bb1-4262-93d9-ad64acfd0508)
 
 - Criação da VM utilizadndo o sistema operacional Windows Server 2012
-_
+
 ![002 - WIN SRV 2012 - AD](https://github.com/user-attachments/assets/612a0aa7-bf7b-4648-b456-4206b5bc8181)
 
 - Foi realizado a pradronização de nome e endereço IP para o controlador de dominio já configurado com a nova floresta do active directory.
-_ 
+
 ![003 - PROMOÇAO A DOMAIN CONTROLLER](https://github.com/user-attachments/assets/247ccfe6-8a83-4618-9e0f-242c7e82e62d)
 
 - Criação das unidades organizacionais, simulando um ambiente empresarial real.
-_
+
 ![004 - CRIAÇAO OUS](https://github.com/user-attachments/assets/cb493e74-f06b-492d-afee-5162e085411f)
 ![005- CRIAÇAO USER BIG BOSS](https://github.com/user-attachments/assets/1108d7a0-c224-4f88-aa86-511c10ee481a)
 ![006 - CRIAÇAO USERS E GROUPS FINANCE](https://github.com/user-attachments/assets/19ebcad6-8f6d-4f06-9d7d-1277d65b289e)
