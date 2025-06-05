@@ -1,4 +1,4 @@
-# 📍 PARTE 003: Migração do File Server para SharePoint e Integração com Teams
+# 📍 PARTE 003: Migração do File Server para SharePoint e algumas configurações para Teams
 
 ### 🎯 Objetivo  
 Modernizar a gestão de arquivos migrando do File Server local para o SharePoint Online, além de estruturar a comunicação interna via Microsoft Teams, simulando um ambiente corporativo realista.
