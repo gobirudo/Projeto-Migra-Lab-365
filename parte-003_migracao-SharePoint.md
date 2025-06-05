@@ -48,6 +48,12 @@ for ($i=1; $i -le 5; $i++) {
 ![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
 ![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
 
+.
+.
+.
+LInk utilizado para download da ferramenta de migração para o Sharepoint : https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
+
+
 
 
 
