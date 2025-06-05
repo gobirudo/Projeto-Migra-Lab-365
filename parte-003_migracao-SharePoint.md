@@ -58,7 +58,7 @@ for ($i=1; $i -le 5; $i++) {
 - Execute o programa : SharePoint Migration Tool
 ![009 -SHAREPOINT](https://github.com/user-attachments/assets/c7bf83c7-4731-4172-9470-bea6eaa68f89)
 
-- Será necessário logar com alguma credencial com permissões para rodar a migração.
+- Será necessário logar com alguma credencial com permissões para rodar a migração
 ![010 -SHAREPOINT ](https://github.com/user-attachments/assets/fb3ab186-704b-4f26-8054-d3de90d1d526)
 
 - Selecione o campo File Share
