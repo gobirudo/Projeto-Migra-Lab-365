@@ -71,7 +71,7 @@ Realizado a criação de algumas pastas e adição de arquivos para simular uso 
 
 Foi utilizado o seguinte comando PowerShell:
 
-```powershell
+powershell
 mkdir Z:\OFFICE\HR - HUMAN RESOURCES
 for ($i=1; $i -le 5; $i++) {
     fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
