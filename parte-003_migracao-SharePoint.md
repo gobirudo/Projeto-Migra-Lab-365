@@ -51,7 +51,7 @@ for ($i=1; $i -le 5; $i++) {
 .
 .
 .
-LInk utilizado para download da ferramenta de migração para o Sharepoint : https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
+- LInk utilizado para download da ferramenta de migração para o Sharepoint : https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
 
 
 
