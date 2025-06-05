@@ -71,11 +71,7 @@ Realizado a criação de algumas pastas e adição de arquivos para simular uso 
 
 Foi utilizado o seguinte comando PowerShell:
 
-powershell
-mkdir Z:\OFFICE\HR - HUMAN RESOURCES
-for ($i=1; $i -le 5; $i++) {
-    fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
-}
+<pre> ```powershell mkdir Z:\OFFICE\HR - HUMAN RESOURCES for ($i=1; $i -le 5; $i++) { fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600 } ``` </pre>
 
 - Esse comando cria 5 arquivos de 100MB cada. A unidade, nomes de pasta e tamanhos podem ser ajustados conforme o cenário.
 ![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
