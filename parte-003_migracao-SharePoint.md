@@ -35,8 +35,14 @@ Modernizar a gestão dos arquivos migrando do File Server local para o SharePoin
  PRINTS
 **************************
 
-
-![022 -FILESERVER - PARTE 03](https://github.com/user-attachments/assets/1d4c3688-b24f-4336-8400-dfacbeab11c8)
+- Realizado a criação de algmas pastas e adição de alguns arquivos...
+- Foi utilizado o seguinte comando:
+mkdir Z:\OFFICE\HR - HUMAN RESOURCES
+for ($i=1; $i -le 5; $i++) {
+    fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
+}
+- Deve-se alterar a unidade, e o nome das pastas...e o tamanho se preferir
+- O comando cria 5 arquivos de 100MB cada, numerados de arquivo_1.txt até arquivo_5.txt
 ![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
 ![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
 ![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
