@@ -91,18 +91,23 @@ for ($i=1; $i -le 5; $i++) {
 🔽 Download da ferramenta de migração
 Link oficial utilizado para download da SharePoint Migration Tool:
 https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
+![001 -SHAREPOINT - PARTE 01](https://github.com/user-attachments/assets/980c6763-1d97-4595-aece-f5f8fb3c5c11)
 
 🚀 Iniciando a SharePoint Migration Tool
 Execute o programa SharePoint Migration Tool:
+![009 -SHAREPOINT](https://github.com/user-attachments/assets/c7bf83c7-4731-4172-9470-bea6eaa68f89)
 
 Será necessário logar com uma conta que tenha permissões adequadas para realizar a migração:
+![010 -SHAREPOINT ](https://github.com/user-attachments/assets/fb3ab186-704b-4f26-8054-d3de90d1d526)
 
 📁 Selecionando a origem e destino da migração
 Selecione a opção File Share como origem:
+![011 -SHAREPOINT](https://github.com/user-attachments/assets/914a2716-9f3f-437e-8797-f782917733de)
 
 Avance para o próximo passo:
 
 Adicione o caminho da pasta de origem ou clique em "Choose folder" para selecionar manualmente:
+
 
 Defina o destino da migração no SharePoint:
 
