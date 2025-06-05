@@ -155,7 +155,7 @@ for ($i=1; $i -le 5; $i++) {
 
 
 
-- Mantive a pasta downloads como local para migrar os dados.
+- Mantive a pasta Documents como local para migrar os dados.
 
 ![016 -SHAREPOINT](https://github.com/user-attachments/assets/9489e694-bc3a-4e86-ac70-a5ff5486aaa1)
 
