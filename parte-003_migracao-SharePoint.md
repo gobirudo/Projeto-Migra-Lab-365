@@ -110,17 +110,35 @@ Adicione o caminho da pasta de origem ou clique em "Choose folder" para selecion
 
 
 Defina o destino da migração no SharePoint:
+![013 -SHAREPOINT](https://github.com/user-attachments/assets/09e014a5-b3f0-48c3-98da-b13495305a4f)
+![014 -SHAREPOINT](https://github.com/user-attachments/assets/78be6a9f-50eb-4a98-98ae-60fed539f75b)
 
 Nome do site será sugerido automaticamente, mas pode ser editado:
+![015 -SHAREPOINT](https://github.com/user-attachments/assets/ff180e34-4fcc-49fe-980f-b3b763f3498a)
 
-Mantive a pasta "Downloads" como local temporário dos dados durante a migração:
+Mantive a pasta "Documents" como local temporário dos dados durante a migração:
+![016 -SHAREPOINT](https://github.com/user-attachments/assets/9489e694-bc3a-4e86-ac70-a5ff5486aaa1)
 
 ✅ Revisão e conclusão da migração
 Resumo geral da tarefa de migração:
+![017 -SHAREPOINT](https://github.com/user-attachments/assets/beeabb00-ad7e-498d-afde-11ba2977f49c)
 
 As permissões originais foram levadas junto com os arquivos:
+![018 -SHAREPOINT](https://github.com/user-attachments/assets/6e7ed0c6-0cc9-41a6-8d85-a5e51bd9edcf)
 
 Migração concluída com sucesso:
+![019 -SHAREPOINT](https://github.com/user-attachments/assets/1a15393b-9af3-47be-bd43-4748493aa1b9)
 
 🔎 Verificando os arquivos no SharePoint
 Acesse o site SharePoint correspondente e visualize os arquivos migrados:
+<br>
+![020 -SHAREPOINT](https://github.com/user-attachments/assets/7fd96fae-a23b-4cc3-b4d1-130ab6423f8b)
+
+![021 -SHAREPOINT](https://github.com/user-attachments/assets/24a7ac36-4a3a-4b1a-aae1-43a08980e07d)
+
+![022 -SHAREPOINT](https://github.com/user-attachments/assets/c40cb044-4447-475a-859c-c8ef48456f91)
+
+![023 -SHAREPOINT](https://github.com/user-attachments/assets/578a478f-4a83-46a6-8366-6471fcefe3fa)
+
+![024 -SHAREPOINT](https://github.com/user-attachments/assets/27f1806f-b6b5-47f6-8132-86262e6225a8)
+
