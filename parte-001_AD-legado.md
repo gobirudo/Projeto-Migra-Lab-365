@@ -1,6 +1,6 @@
-+ 📍 PARTE 001 : Simulação de Ambiente Obsoleto com Active Directory
+# 📍 PARTE 001 : Simulação de Ambiente Obsoleto com Active Directory
 
-! 🎯 Objetivo
+###! 🎯 Objetivo
 Simular um ambiente legado com Active Directory rodando em Windows Server 2012, com estrutura organizacional e de segurança montada, para posterior otimização, modernização e migração para versão mais recente.
 
 ---
