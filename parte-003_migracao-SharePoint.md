@@ -84,7 +84,8 @@ for ($i=1; $i -le 5; $i++) {
 
 ![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
 
-
+<br>
+<br>
 
 
 🔽 Download da ferramenta de migração
