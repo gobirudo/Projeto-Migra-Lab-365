@@ -29,3 +29,22 @@ Modernizar a gestão dos arquivos migrando do File Server local para o SharePoin
 6. Validação pós-migração e integração  
    - Testes de acesso e colaboração entre usuários nos ambientes SharePoint e Teams para garantir funcionamento integrado e eficiente.  
    - Ajustes finos nas permissões e na hierarquia organizacional conforme feedback dos testes.
+
+
+***************************
+ PRINTS
+**************************
+
+
+![022 -FILESERVER - PARTE 03](https://github.com/user-attachments/assets/1d4c3688-b24f-4336-8400-dfacbeab11c8)
+![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
+![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
+![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
+
+
+
+
+
+
+
+
