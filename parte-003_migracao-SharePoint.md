@@ -53,15 +53,9 @@ for ($i=1; $i -le 5; $i++) {
 .
 - LInk utilizado para download da ferramenta de migração para o Sharepoint : https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
 
-![00 -SHAREPOINT - PARTE 05](https://github.com/user-attachments/assets/4dd39044-8e0c-4159-8b01-6ae2e123fcb3)
 ![001 -SHAREPOINT - PARTE 01](https://github.com/user-attachments/assets/980c6763-1d97-4595-aece-f5f8fb3c5c11)
-![002 -SHAREPOINT - PARTE 02](https://github.com/user-attachments/assets/71196bcf-236d-4d42-8d9f-09594c0f87c8)
-![003 -SHAREPOINT - PARTE 03](https://github.com/user-attachments/assets/22dfe561-76ad-4ee4-8a7c-54c638d58025)
-![004 -SHAREPOINT - PARTE 04](https://github.com/user-attachments/assets/9e4963dc-93d6-482a-8144-af8f4ce4590b)
-![005 -SHAREPOINT - PARTE 05](https://github.com/user-attachments/assets/7d5ba040-766f-4319-a685-273884519109)
-![006 -SHAREPOINT](https://github.com/user-attachments/assets/686062a2-0712-4c7b-969b-5ebbacc3e622)
-![007 -SHAREPOINT](https://github.com/user-attachments/assets/e7626a3b-dbf8-41fe-85ab-8b26167c48e1)
-![008 -SHAREPOINT](https://github.com/user-attachments/assets/68dab5b7-327e-4b3c-9b15-223a23472e6f)
+
+
 ![009 -SHAREPOINT](https://github.com/user-attachments/assets/c7bf83c7-4731-4172-9470-bea6eaa68f89)
 ![010 -SHAREPOINT ](https://github.com/user-attachments/assets/fb3ab186-704b-4f26-8054-d3de90d1d526)
 ![011 -SHAREPOINT](https://github.com/user-attachments/assets/914a2716-9f3f-437e-8797-f782917733de)
