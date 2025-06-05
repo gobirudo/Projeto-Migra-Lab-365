@@ -1,4 +1,4 @@
-+ 📍 PARTE 002  Expansão do Ambiente e Configuração do File Server
+# 📍 PARTE 002  Expansão do Ambiente e Configuração do File Server
 
 ## 1. Configuração do Segundo Controlador de Domínio (ADDS-001)
 
