@@ -1,45 +1,45 @@
-🚀 PARTE 003: Migração do File Server para SharePoint e Integração com Teams
-🎯 Objetivo
+# 🚀 PARTE 003: Migração do File Server para SharePoint e Integração com Teams
+
+### 🎯 Objetivo  
 Modernizar a gestão de arquivos migrando do File Server local para o SharePoint Online, além de estruturar a comunicação interna via Microsoft Teams, simulando um ambiente corporativo realista.
 
-🛠️ Passos realizados
-1. Planejamento da migração
+---
 
-Avaliação da estrutura atual de arquivos e permissões no File Server (unidade Z:).
+### 🛠️ Passos realizados
 
-População inicial do File Server com subpastas e arquivos para simular ambiente realista e validar a migração.
+**1. Planejamento da migração**  
 
-Mapeamento das pastas e grupos de segurança para manter hierarquia e permissões no SharePoint.
+- Avaliação da estrutura atual de arquivos e permissões no File Server (unidade Z:).  
+- População inicial do File Server com subpastas e arquivos para simular ambiente realista e validar a migração.  
+- Mapeamento das pastas e grupos de segurança para manter hierarquia e permissões no SharePoint.
 
-2. Criação do site SharePoint
+**2. Criação do site SharePoint**  
 
-Configuração do site de equipe no SharePoint Online, com estrutura de bibliotecas e pastas refletindo a organização do File Server.
+- Configuração do site de equipe no SharePoint Online, com estrutura de bibliotecas e pastas refletindo a organização do File Server.
 
-3. Utilização do SharePoint Migration Tool
+**3. Utilização do SharePoint Migration Tool**  
 
-Download e instalação da ferramenta oficial da Microsoft para migração (SharePoint Migration Tool).
+- Download e instalação da ferramenta oficial da Microsoft para migração (SharePoint Migration Tool).  
+- Configuração do perfil de migração apontando para a unidade Z: do File Server.  
+- Migração dos arquivos mantendo estrutura e permissões correspondentes.
 
-Configuração do perfil de migração apontando para a unidade Z: do File Server.
+**4. Atualização da estrutura organizacional no Active Directory**  
 
-Migração dos arquivos mantendo estrutura e permissões correspondentes.
+- Configuração da hierarquia entre usuários: cada usuário tem gerente definido, e o gerente reporta ao BIG BOSS.  
+- Estrutura pensada para simular a árvore organizacional exibida no Microsoft Teams, facilitando a visualização das relações de reporte.
 
-4. Atualização da estrutura organizacional no Active Directory
+**5. Configuração e testes no Microsoft Teams**  
 
-Configuração da hierarquia entre usuários: cada usuário tem gerente definido, e o gerente reporta ao BIG BOSS.
+- Criação de equipes e canais no Teams baseados nos departamentos criados no AD.  
+- Realização de testes práticos de comunicação, incluindo chats e reuniões, simulando fluxo de trabalho real.
 
-Estrutura pensada para simular a árvore organizacional exibida no Microsoft Teams, facilitando a visualização das relações de reporte.
+**6. Validação pós-migração e integração**  
 
-5. Configuração e testes no Microsoft Teams
+- Testes de acesso e colaboração entre usuários nos ambientes SharePoint e Teams para garantir funcionamento integrado e eficiente.  
+- Ajustes finos nas permissões e na hierarquia organizacional conforme feedback dos testes.
 
-Criação de equipes e canais no Teams baseados nos departamentos criados no AD.
+---
 
-Realização de testes práticos de comunicação, incluindo chats e reuniões, simulando fluxo de trabalho real.
-
-6. Validação pós-migração e integração
-
-Testes de acesso e colaboração entre usuários nos ambientes SharePoint e Teams para garantir funcionamento integrado e eficiente.
-
-Ajustes finos nas permissões e na hierarquia organizacional conforme feedback dos testes.
 
 
 
