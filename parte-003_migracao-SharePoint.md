@@ -104,7 +104,8 @@ Será necessário logar com uma conta que tenha permissões adequadas para reali
 
 Adicione o caminho da pasta de origem ou clique em "Choose folder" para selecionar manualmente:
 ![013 -SHAREPOINT](https://github.com/user-attachments/assets/09e014a5-b3f0-48c3-98da-b13495305a4f)
-<br>
+
+<b4>.
 Defina o destino da migração no SharePoint:
 ![014 -SHAREPOINT](https://github.com/user-attachments/assets/78be6a9f-50eb-4a98-98ae-60fed539f75b)
 
