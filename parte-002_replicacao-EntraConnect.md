@@ -30,7 +30,9 @@
  Alinhadas às políticas de segurança e grupos de permissões definidos no Active Directory.
  Realização de testes de acesso e validação das permissões aplicadas, assegurando que cada departamento possui o controle correto sobre seus dados.
 
- 
+ *****************************
+             PRINTS
+ ******************************
 ---
 
 - Acesso ao servidor ADDS-001 (win2022)
