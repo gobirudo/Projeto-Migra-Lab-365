@@ -97,7 +97,7 @@ Execute o programa SharePoint Migration Tool:
 Será necessário logar com uma conta que tenha permissões adequadas para realizar a migração:
 ![010 -SHAREPOINT ](https://github.com/user-attachments/assets/fb3ab186-704b-4f26-8054-d3de90d1d526)
 
-<br>
+
 📁 Selecionando a origem e destino da migração. 
 - Selecione a opção File Share como origem:
 ![011 -SHAREPOINT](https://github.com/user-attachments/assets/914a2716-9f3f-437e-8797-f782917733de)
