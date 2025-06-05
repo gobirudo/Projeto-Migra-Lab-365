@@ -78,8 +78,11 @@ for ($i=1; $i -le 5; $i++) {
 }
 
 - Esse comando cria 5 arquivos de 100MB cada. A unidade, nomes de pasta e tamanhos podem ser ajustados conforme o cenário.
-![023 -SHAREPOINT](https://github.com/user-attachments/assets/7276164f-9913-4dea-95f8-14706082de64)
-![024 -SHAREPOINT](https://github.com/user-attachments/assets/261c2d96-1594-426b-87ed-aea4c8148de8)
+![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
+
+![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
+
+![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
 
 
 
