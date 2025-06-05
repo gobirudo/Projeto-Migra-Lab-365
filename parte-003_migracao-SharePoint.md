@@ -65,17 +65,18 @@ Modernizar a gestão dos arquivos migrando do File Server local para o SharePoin
 📸 PRINTS - MIGRAÇÃO
 ***************************
 
-🗂️ Populando o File Server com arquivos de teste
+## 🗂️ Populando o File Server com arquivos de teste
 
 Realizado a criação de algumas pastas e adição de arquivos para simular uso real.
 
 Foi utilizado o seguinte comando PowerShell:
 
-powershell
+```powershell
 mkdir Z:\OFFICE\HR - HUMAN RESOURCES
 for ($i=1; $i -le 5; $i++) {
     fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
 }
+
 
 - Esse comando cria 5 arquivos de 100MB cada. A unidade, nomes de pasta e tamanhos podem ser ajustados conforme o cenário.
 <br>
