@@ -81,19 +81,18 @@ Foi utilizado o seguinte comando PowerShell:
 
 ![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
 
-<br>
+
 
 🔽 Download da ferramenta de migração
 Link oficial utilizado para download da SharePoint Migration Tool:
 https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
 ![001 -SHAREPOINT - PARTE 01](https://github.com/user-attachments/assets/980c6763-1d97-4595-aece-f5f8fb3c5c11)
-<br>
+
 
 🚀 Iniciando a SharePoint Migration Tool
 Execute o programa SharePoint Migration Tool:
 ![009 -SHAREPOINT](https://github.com/user-attachments/assets/c7bf83c7-4731-4172-9470-bea6eaa68f89)
 
-<br>
 Será necessário logar com uma conta que tenha permissões adequadas para realizar a migração:
 ![010 -SHAREPOINT ](https://github.com/user-attachments/assets/fb3ab186-704b-4f26-8054-d3de90d1d526)
 
@@ -102,36 +101,29 @@ Será necessário logar com uma conta que tenha permissões adequadas para reali
 - Selecione a opção File Share como origem:
 ![011 -SHAREPOINT](https://github.com/user-attachments/assets/914a2716-9f3f-437e-8797-f782917733de)
 
-<br>
+
 Adicione o caminho da pasta de origem ou clique em "Choose folder" para selecionar manualmente:
 ![013 -SHAREPOINT](https://github.com/user-attachments/assets/09e014a5-b3f0-48c3-98da-b13495305a4f)
 
-<br>
 Defina o destino da migração no SharePoint:
 ![014 -SHAREPOINT](https://github.com/user-attachments/assets/78be6a9f-50eb-4a98-98ae-60fed539f75b)
 
-<br>
 Nome do site será sugerido automaticamente, mas pode ser editado:
 ![015 -SHAREPOINT](https://github.com/user-attachments/assets/ff180e34-4fcc-49fe-980f-b3b763f3498a)
 
-<br>
 Mantive a pasta "Documents" como local temporário dos dados durante a migração:
 ![016 -SHAREPOINT](https://github.com/user-attachments/assets/9489e694-bc3a-4e86-ac70-a5ff5486aaa1)
 
-<br>
 ✅ Revisão e conclusão da migração
 Resumo geral da tarefa de migração:
 ![017 -SHAREPOINT](https://github.com/user-attachments/assets/beeabb00-ad7e-498d-afde-11ba2977f49c)
 
-<br>
 As permissões originais foram levadas junto com os arquivos:
 ![018 -SHAREPOINT](https://github.com/user-attachments/assets/6e7ed0c6-0cc9-41a6-8d85-a5e51bd9edcf)
 
-<br>
 Migração concluída com sucesso:
 ![019 -SHAREPOINT](https://github.com/user-attachments/assets/1a15393b-9af3-47be-bd43-4748493aa1b9)
 
-<br>
 🔎 Verificando os arquivos no SharePoint
 Acesse o site SharePoint correspondente e visualize os arquivos migrados:
 <br>
