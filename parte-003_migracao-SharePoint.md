@@ -61,25 +61,35 @@ Modernizar a gestão dos arquivos migrando do File Server local para o SharePoin
    - Ajustes finos nas permissões e na hierarquia organizacional conforme feedback dos testes.
 
 
+
+
+
 ***************************
-📸 PRINTS - MIGRAÇÃO
-***************************
 
-## 🗂️ Populando o File Server com arquivos de teste
+ PRINTS
 
-Realizado a criação de algumas pastas e adição de arquivos para simular uso real.
+**************************
 
-Foi utilizado o seguinte comando PowerShell:
 
-```powershell
-mkdir Z:\OFFICE\HR - HUMAN RESOURCES
+
+- Realizado a criação de algumas pastas e adição de alguns arquivos...
+
+- Foi utilizado o seguinte comando:
+
+- mkdir Z:\OFFICE\HR - HUMAN RESOURCES
+
 for ($i=1; $i -le 5; $i++) {
-    fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
+
+    fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
+
 }
 
+- Deve-se alterar a unidade, e o nome das pastas...e o tamanho se preferir
 
-- Esse comando cria 5 arquivos de 100MB cada. A unidade, nomes de pasta e tamanhos podem ser ajustados conforme o cenário.
-<br>
+- O comando cria 5 arquivos de 100MB cada, numerados de arquivo_1.txt até arquivo_5.txt
+
+- Foi realizado o mesmo procedimento para todas as demais pastas...
+
 ![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
 
 ![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
@@ -88,51 +98,88 @@ for ($i=1; $i -le 5; $i++) {
 
 
 
-🔽 Download da ferramenta de migração
-Link oficial utilizado para download da SharePoint Migration Tool:
-https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
+.
+
+.
+
+.
+
+- LInk utilizado para download da ferramenta de migração para o Sharepoint : https://learn.microsoft.com/en-us/sharepointmigration/how-to-use-the-sharepoint-migration-tool
+
+
+
 ![001 -SHAREPOINT - PARTE 01](https://github.com/user-attachments/assets/980c6763-1d97-4595-aece-f5f8fb3c5c11)
 
 
-🚀 Iniciando a SharePoint Migration Tool
-Execute o programa SharePoint Migration Tool:
+
+- Execute o programa : SharePoint Migration Tool
+
 ![009 -SHAREPOINT](https://github.com/user-attachments/assets/c7bf83c7-4731-4172-9470-bea6eaa68f89)
 
-Será necessário logar com uma conta que tenha permissões adequadas para realizar a migração:
+
+
+- Será necessário logar com alguma credencial com permissões para rodar a migração
+
 ![010 -SHAREPOINT ](https://github.com/user-attachments/assets/fb3ab186-704b-4f26-8054-d3de90d1d526)
 
 
-📁 Selecionando a origem e destino da migração. 
-- Selecione a opção File Share como origem:
+
+- Selecione o campo File Share
+
 ![011 -SHAREPOINT](https://github.com/user-attachments/assets/914a2716-9f3f-437e-8797-f782917733de)
 
 
-Adicione o caminho da pasta de origem ou clique em "Choose folder" para selecionar manualmente:
+
+- Segue o passo
+
+![012 -SHAREPOINT](https://github.com/user-attachments/assets/b3ad4096-1c94-4299-8381-75e47528cb45)
+
+
+
+- Adicione o endereço da pasta ou clique em choose folder (manualmente)
+
 ![013 -SHAREPOINT](https://github.com/user-attachments/assets/09e014a5-b3f0-48c3-98da-b13495305a4f)
 
-<b4>.
-Defina o destino da migração no SharePoint:
+
+
+- Selecione o destino
+
 ![014 -SHAREPOINT](https://github.com/user-attachments/assets/78be6a9f-50eb-4a98-98ae-60fed539f75b)
 
-Nome do site será sugerido automaticamente, mas pode ser editado:
+
+
+- Ele vai preencher o nome do site que será criado lá no Shaprepoint, pode ser mudado, assim como fiz
+
 ![015 -SHAREPOINT](https://github.com/user-attachments/assets/ff180e34-4fcc-49fe-980f-b3b763f3498a)
 
-Mantive a pasta "Documents" como local temporário dos dados durante a migração:
+
+
+- Mantive a pasta downloads como local para migrar os dados.
+
 ![016 -SHAREPOINT](https://github.com/user-attachments/assets/9489e694-bc3a-4e86-ac70-a5ff5486aaa1)
 
-✅ Revisão e conclusão da migração
-Resumo geral da tarefa de migração:
+
+
+- Um breve resumo.
+
 ![017 -SHAREPOINT](https://github.com/user-attachments/assets/beeabb00-ad7e-498d-afde-11ba2977f49c)
 
-As permissões originais foram levadas junto com os arquivos:
+
+
+- Preferi levar as permissões para já migrar junto com os dados
+
 ![018 -SHAREPOINT](https://github.com/user-attachments/assets/6e7ed0c6-0cc9-41a6-8d85-a5e51bd9edcf)
 
-Migração concluída com sucesso:
+
+
+- Migração concluída.
+
 ![019 -SHAREPOINT](https://github.com/user-attachments/assets/1a15393b-9af3-47be-bd43-4748493aa1b9)
 
-🔎 Verificando os arquivos no SharePoint
-Acesse o site SharePoint correspondente e visualize os arquivos migrados:
-<br>
+
+
+- Só acessar o Sharepoint, e clicar no site, e verá os dados migrados.
+
 ![020 -SHAREPOINT](https://github.com/user-attachments/assets/7fd96fae-a23b-4cc3-b4d1-130ab6423f8b)
 
 ![021 -SHAREPOINT](https://github.com/user-attachments/assets/24a7ac36-4a3a-4b1a-aae1-43a08980e07d)
