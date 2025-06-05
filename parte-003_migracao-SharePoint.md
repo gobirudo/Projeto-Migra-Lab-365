@@ -76,13 +76,13 @@ Modernizar a gestão dos arquivos migrando do File Server local para o SharePoin
 
 - Foi utilizado o seguinte comando:
 
-- mkdir Z:\OFFICE\HR - HUMAN RESOURCES
+# create-hr-files.ps1
+mkdir "Z:\OFFICE\HR - HUMAN RESOURCES"
 
 for ($i=1; $i -le 5; $i++) {
-
-    fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
-
+    fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
 }
+
 
 - Deve-se alterar a unidade, e o nome das pastas...e o tamanho se preferir
 
