@@ -76,7 +76,8 @@ Modernizar a gestão dos arquivos migrando do File Server local para o SharePoin
 
 - Foi utilizado o seguinte comando:
 
-# create-hr-files.ps1
+# Comando
+
 mkdir "Z:\OFFICE\HR - HUMAN RESOURCES"
 
 for ($i=1; $i -le 5; $i++) {
