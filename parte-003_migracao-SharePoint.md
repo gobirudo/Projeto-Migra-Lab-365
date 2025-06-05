@@ -82,13 +82,13 @@ for ($i=1; $i -le 5; $i++) {
 - Um breve resumo.
 ![017 -SHAREPOINT](https://github.com/user-attachments/assets/beeabb00-ad7e-498d-afde-11ba2977f49c)
 
--Preferi levar as permissões para já migrar junto com os dados.
+- Preferi levar as permissões para já migrar junto com os dados
 ![018 -SHAREPOINT](https://github.com/user-attachments/assets/6e7ed0c6-0cc9-41a6-8d85-a5e51bd9edcf)
 
-- Migração concluída!
+- Migração concluída.
 ![019 -SHAREPOINT](https://github.com/user-attachments/assets/1a15393b-9af3-47be-bd43-4748493aa1b9)
 
-- Só acessar o Shapoint, e clicar no site, e verá os dados migrados.
+- Só acessar o Sharepoint, e clicar no site, e verá os dados migrados.
 ![020 -SHAREPOINT](https://github.com/user-attachments/assets/7fd96fae-a23b-4cc3-b4d1-130ab6423f8b)
 ![021 -SHAREPOINT](https://github.com/user-attachments/assets/24a7ac36-4a3a-4b1a-aae1-43a08980e07d)
 ![022 -SHAREPOINT](https://github.com/user-attachments/assets/c40cb044-4447-475a-859c-c8ef48456f91)
