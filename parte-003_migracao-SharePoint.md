@@ -61,7 +61,6 @@ Modernizar a gestão dos arquivos migrando do File Server local para o SharePoin
    - Ajustes finos nas permissões e na hierarquia organizacional conforme feedback dos testes.
 
 
-```markdown
 ***************************
 📸 PRINTS - MIGRAÇÃO
 ***************************
@@ -77,6 +76,7 @@ mkdir Z:\OFFICE\HR - HUMAN RESOURCES
 for ($i=1; $i -le 5; $i++) {
     fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600
 }
+
 - Esse comando cria 5 arquivos de 100MB cada. A unidade, nomes de pasta e tamanhos podem ser ajustados conforme o cenário.
 <br>
 ![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
