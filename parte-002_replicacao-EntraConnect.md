@@ -68,7 +68,20 @@
 ![014 - LICENÇA GRUP - PARTE 05](https://github.com/user-attachments/assets/ae78ad6b-5676-48f6-89e6-f60515a60d18)
 ![015 - LICENÇA GRUP - PARTE 06](https://github.com/user-attachments/assets/5471c8cd-60bd-4938-bd45-4217b71d8544)
 
+.
+.
+.
 
+![016 - STORAGE HP - PARTE 01](https://github.com/user-attachments/assets/f2d9c2dc-5b2e-4d3a-886d-81375ea4730b)
+![017 - STORAGE HP - PARTE 02](https://github.com/user-attachments/assets/f6b98c7d-3898-4a9f-abb2-b38382ff2c23)
+![018 - STORAGE HP - PARTE 03](https://github.com/user-attachments/assets/37a0ed60-4a16-402e-b5f4-1fc8ba49322b)
+![019 - STORAGE HP - PARTE 04](https://github.com/user-attachments/assets/6bb306fb-1a90-4c36-a180-fc6c69226d10)
+![020 -FILESERVER - PARTE 01](https://github.com/user-attachments/assets/1d561acd-a74b-4808-bedb-5dd56d968b25)
+![021 -FILESERVER - PARTE 02](https://github.com/user-attachments/assets/80e9d081-5a5f-46b3-bc27-db0dbfb97168)
+![022 -FILESERVER - PARTE 03](https://github.com/user-attachments/assets/1d4c3688-b24f-4336-8400-dfacbeab11c8)
+![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
+![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
+![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
 
 
 
