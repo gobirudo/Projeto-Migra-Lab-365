@@ -43,6 +43,7 @@ for ($i=1; $i -le 5; $i++) {
 }
 - Deve-se alterar a unidade, e o nome das pastas...e o tamanho se preferir
 - O comando cria 5 arquivos de 100MB cada, numerados de arquivo_1.txt até arquivo_5.txt
+- Foi realizado o mesmo procedimento para todas as demais pastas...
 ![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
 ![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
 ![025 -FILESERVER - PARTE 06](https://github.com/user-attachments/assets/83a8c5a1-1ba1-4a29-ac6c-acd4c659b64d)
