@@ -74,7 +74,7 @@ Foi utilizado o seguinte comando PowerShell:
 <pre> ```powershell mkdir Z:\OFFICE\HR - HUMAN RESOURCES for ($i=1; $i -le 5; $i++) { fsutil file createnew "Z:\OFFICE\HR - HUMAN RESOURCES\hr-file-$i.txt" 104857600 } ``` </pre>
 
 - Esse comando cria 5 arquivos de 100MB cada. A unidade, nomes de pasta e tamanhos podem ser ajustados conforme o cenário.
-- <br>
+<br>
 ![023 -FILESERVER - PARTE 04](https://github.com/user-attachments/assets/c17526e2-4771-42d2-b16f-4fab74dd32a1)
 
 ![024 -FILESERVER - PARTE 05](https://github.com/user-attachments/assets/1c0935d0-b6a6-43a4-adc1-101e6d6f7fdd)
@@ -104,8 +104,8 @@ Será necessário logar com uma conta que tenha permissões adequadas para reali
 
 Adicione o caminho da pasta de origem ou clique em "Choose folder" para selecionar manualmente:
 ![013 -SHAREPOINT](https://github.com/user-attachments/assets/09e014a5-b3f0-48c3-98da-b13495305a4f)
-
-- Defina o destino da migração no SharePoint:
+<br>
+Defina o destino da migração no SharePoint:
 ![014 -SHAREPOINT](https://github.com/user-attachments/assets/78be6a9f-50eb-4a98-98ae-60fed539f75b)
 
 Nome do site será sugerido automaticamente, mas pode ser editado:
