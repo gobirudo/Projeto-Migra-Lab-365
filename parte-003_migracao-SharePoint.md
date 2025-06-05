@@ -155,13 +155,16 @@ for ($i=1; $i -le 5; $i++) {
 
 
 - MIgração iniciada.
+- .
 ![019 -SHAREPOINT](https://github.com/user-attachments/assets/1a15393b-9af3-47be-bd43-4748493aa1b9)
 
 
 - Migração concluída.
+
 ![020 -SHAREPOINT](https://github.com/user-attachments/assets/7fd96fae-a23b-4cc3-b4d1-130ab6423f8b)
 
 - Só acessar o Sharepoint, e clicar no site, e verá os dados migrados.
+- 
 ![021 -SHAREPOINT](https://github.com/user-attachments/assets/24a7ac36-4a3a-4b1a-aae1-43a08980e07d)
 
 ![022 -SHAREPOINT](https://github.com/user-attachments/assets/c40cb044-4447-475a-859c-c8ef48456f91)
