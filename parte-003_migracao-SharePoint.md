@@ -174,16 +174,18 @@ for ($i=1; $i -le 5; $i++) {
 ![024 -SHAREPOINT](https://github.com/user-attachments/assets/27f1806f-b6b5-47f6-8132-86262e6225a8)
 
 - Realizado uns ajustes de organização como : Gerente, para integrar ao teams no painel de Organização.
-![028 -TEAMS](https://github.com/user-attachments/assets/4df6333b-bac0-43f3-a161-ac66b83be4c0)
-
-- Criação de Equipe e canal no Teams e teste de chats.
-![029 -TEAMS](https://github.com/user-attachments/assets/859988f7-d168-4f29-bc29-c0bc0972a365)
-
-- Notificação de ingressão de um user à uma equipe.
-![025 -TEAMS](https://github.com/user-attachments/assets/a8cfdea5-6123-4e2c-99cd-56e2d6136842)
-
-- Realizado uns ajustes de organização como : Gerente, para integrar ao teams no painel de Organização.
 ![026 -TEAMS](https://github.com/user-attachments/assets/17121763-0b3e-4d99-b2d9-4ea94d30ec50)
 
-- Caminho para verificar a estrutura de Organização.
+- Criação de Equipes no Teams e uns testes de chat.
+![028 -TEAMS](https://github.com/user-attachments/assets/4df6333b-bac0-43f3-a161-ac66b83be4c0)
+
+- Notificação de ingressão de um user à uma equipe.
+![029 -TEAMS](https://github.com/user-attachments/assets/859988f7-d168-4f29-bc29-c0bc0972a365)
+
+- Verificação do Sharepoint com um user, estrutura toda replicada corretamente.
+![025 -TEAMS](https://github.com/user-attachments/assets/a8cfdea5-6123-4e2c-99cd-56e2d6136842)
+
+
+
+- Simulação completa de um painel de organização, tudo vindo do AD.
 ![027 -TEAMS](https://github.com/user-attachments/assets/42ee5c3a-d305-4220-ad60-14709f9889cd)
