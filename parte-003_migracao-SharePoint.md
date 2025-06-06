@@ -33,10 +33,6 @@ Modernizar a gestão de arquivos migrando do File Server local para o SharePoint
 - Criação de equipes e canais no Teams baseados nos departamentos criados no AD.  
 - Realização de testes práticos de comunicação, incluindo chats e reuniões, simulando fluxo de trabalho real.
 
-**6. Validação pós-migração e integração**  
-
-- Testes de acesso e colaboração entre usuários nos ambientes SharePoint e Teams para garantir funcionamento integrado e eficiente.  
-- Ajustes finos nas permissões e na hierarquia organizacional conforme feedback dos testes.
 
 ---
 
