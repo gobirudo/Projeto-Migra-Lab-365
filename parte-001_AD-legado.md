@@ -82,9 +82,11 @@ Simular um ambiente legado com Active Directory rodando em Windows Server 2012, 
 
 📌 *Esse primeiro estágio simula empresas que ainda operam com servidores antigos e enfrentam o desafio de atualizar sua infraestrutura sem causar impacto no ambiente de produção.*
 
----
 
-PRINTS:
+ *****************************
+             PRINTS
+ ******************************
+---
 
 - Utilização do VMWare worksatation para a criação das máquinas virtuais: 
 
