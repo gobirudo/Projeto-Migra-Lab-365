@@ -173,10 +173,11 @@ for ($i=1; $i -le 5; $i++) {
 
 ![024 -SHAREPOINT](https://github.com/user-attachments/assets/27f1806f-b6b5-47f6-8132-86262e6225a8)
 
-- 
+- Realizado uns ajustes de organização como : Gerente, para integrar ao teams no painel de Organização.
+![028 -TEAMS](https://github.com/user-attachments/assets/4df6333b-bac0-43f3-a161-ac66b83be4c0)
 
-![025 -TEAMS](https://github.com/user-attachments/assets/74f57660-7f7d-47eb-88f6-79f86051d65b)
-![027 -TEAMS](https://github.com/user-attachments/assets/94368d30-e253-446c-b226-e9f9ecc8fc96)
-![026 -TEAMS](https://github.com/user-attachments/assets/ff054e15-7822-4a3a-be1f-c16550536dde)
-![028 -TEAMS](https://github.com/user-attachments/assets/0a4cc3b0-bf67-4b7a-b43c-db1bae155d92)
-![029 -TEAMS](https://github.com/user-attachments/assets/38780113-9fb1-4fd0-b74f-16ad07c3ffb1)
+- Hierarquia vinda do AD.
+![029 -TEAMS](https://github.com/user-attachments/assets/859988f7-d168-4f29-bc29-c0bc0972a365)
+![025 -TEAMS](https://github.com/user-attachments/assets/a8cfdea5-6123-4e2c-99cd-56e2d6136842)
+![026 -TEAMS](https://github.com/user-attachments/assets/17121763-0b3e-4d99-b2d9-4ea94d30ec50)
+![027 -TEAMS](https://github.com/user-attachments/assets/42ee5c3a-d305-4220-ad60-14709f9889cd)
