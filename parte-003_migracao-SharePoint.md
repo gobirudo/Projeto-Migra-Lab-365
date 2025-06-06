@@ -176,8 +176,14 @@ for ($i=1; $i -le 5; $i++) {
 - Realizado uns ajustes de organização como : Gerente, para integrar ao teams no painel de Organização.
 ![028 -TEAMS](https://github.com/user-attachments/assets/4df6333b-bac0-43f3-a161-ac66b83be4c0)
 
-- Hierarquia vinda do AD.
+- Criação de Equipe e canal no Teams e teste de chats.
 ![029 -TEAMS](https://github.com/user-attachments/assets/859988f7-d168-4f29-bc29-c0bc0972a365)
+
+- Notificação de ingressão de um user à uma equipe.
 ![025 -TEAMS](https://github.com/user-attachments/assets/a8cfdea5-6123-4e2c-99cd-56e2d6136842)
+
+- Realizado uns ajustes de organização como : Gerente, para integrar ao teams no painel de Organização.
 ![026 -TEAMS](https://github.com/user-attachments/assets/17121763-0b3e-4d99-b2d9-4ea94d30ec50)
+
+- Caminho para verificar a estrutura de Organização.
 ![027 -TEAMS](https://github.com/user-attachments/assets/42ee5c3a-d305-4220-ad60-14709f9889cd)
