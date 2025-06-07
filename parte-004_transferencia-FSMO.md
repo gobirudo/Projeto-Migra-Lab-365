@@ -119,8 +119,10 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
 ![PARTE 043 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/306288a5-50a2-49fc-bdd5-7cb76b5ff63a)
 ![PARTE 044 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/18d4d6a0-e705-4ab8-920f-003507efe521)
 
-- Nesta etapa, suspendi a VM ADDS-000 para não implicar na VM restaurada, e foi realizado os testes de criaçãod e user e replicação feita com sucesso com o outro AD.
+- Nesta etapa, suspendi a VM ADDS-000 para não implicar na VM restaurada, e foi realizado os testes de criação de user e replicação feita com sucesso com o outro ADDS-001.
 ![PARTE 045 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/987b7f87-ccc4-4882-a713-54dc5900b55f)
 ![PARTE 046 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/8e40c3b0-a976-4e24-bd67-c87c5ea53826)
 ![PARTE 047 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/d04fc207-b0f6-4075-9cc6-06b1b8345d7c)
+
+- Fiz um Snapshot para + garantia de restore rápido.
 ![PARTE 048 - SNAPSHOT](https://github.com/user-attachments/assets/e39406c2-25da-4ebc-b4d3-d3716cbe8ac7)
