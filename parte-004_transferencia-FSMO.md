@@ -101,11 +101,9 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
 ![PARTE 027 - VEEAM BACKUP](https://github.com/user-attachments/assets/00f2170e-d8fb-434e-ae7c-b90b74e03bc6)
 ![PARTE 028 - VEEAM BACKUP](https://github.com/user-attachments/assets/ed192ec8-4e0e-4b4c-b075-eb8d00bb5215)
 
-- Abaxo as etapas para fazer o restore das VMS, para testar se os bakcups estão integros, pois será realizado as transferencias das FSMO's.
+- Abaxo as etapas para fazer o restore das VMS, para testar se os backups estão integros, pois será realizado as transferencias das FSMO's.
 ![PARTE 029 - VEEAM BACKUP](https://github.com/user-attachments/assets/d0860a0b-5a52-4109-a1f2-f9d9dc3973c4)
 ![PARTE 030 - VEEAM BACKUP](https://github.com/user-attachments/assets/5da32147-aa20-4cc2-b7f8-1fa8e7d8b6da)
-
-
 ![PARTE 031 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/2cd664e1-e263-4738-a82b-6ab9b611f2f5)
 ![PARTE 032 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/26e6b472-8d43-4b97-a003-77e3c1f1eced)
 ![PARTE 033 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/c42deac0-1f5f-4945-aa92-d314737ad679)
@@ -120,6 +118,8 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
 ![PARTE 042 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/f743c7d1-7e40-411a-89e7-0d09ccf23681)
 ![PARTE 043 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/306288a5-50a2-49fc-bdd5-7cb76b5ff63a)
 ![PARTE 044 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/18d4d6a0-e705-4ab8-920f-003507efe521)
+
+- Nesta etapa, suspendi a VM ADDS-000 para não implicar na VM restaurada, e foi realizado os testes de criaçãod e user e replicação feita com sucesso com o outro AD.
 ![PARTE 045 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/987b7f87-ccc4-4882-a713-54dc5900b55f)
 ![PARTE 046 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/8e40c3b0-a976-4e24-bd67-c87c5ea53826)
 ![PARTE 047 - VEEAM BACKUP RESTORE](https://github.com/user-attachments/assets/d04fc207-b0f6-4075-9cc6-06b1b8345d7c)
