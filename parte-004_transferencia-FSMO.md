@@ -134,3 +134,43 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
  - Realizado a pausa do serviço de sincronização do Entra-ID:
  - COMANDO : Get-ADSyncScheduler (para checar o serviço)
  - COMANDO : Set-ADSyncScheduler -SyncCycleEnabled $false (para parar o serviço)
+
+![PARTE 049 - FSMO](https://github.com/user-attachments/assets/a1f2b5d2-7101-403c-90cf-0756be91b68b)
+![PARTE 050 - FSMO](https://github.com/user-attachments/assets/b9844dac-1203-48cf-a9e3-66666e6bb543)
+![PARTE 051 - FSMO](https://github.com/user-attachments/assets/946253a8-2af4-43c3-8abd-5373f68431ef)
+![PARTE 052 - FSMO](https://github.com/user-attachments/assets/2c0f5b66-f94a-4669-9f23-1fd2f51511eb)
+![PARTE 053 - FSMO](https://github.com/user-attachments/assets/15f233b8-2c86-4875-84a2-bb29b59867cd)
+![PARTE 054 - FSMO](https://github.com/user-attachments/assets/c7e41b9b-2b2e-4236-8bed-44a6a6c710c2)
+![PARTE 055 - FSMO](https://github.com/user-attachments/assets/6955537f-ffa5-43ae-9992-d72fcfc164dc)
+![PARTE 056 - FSMO](https://github.com/user-attachments/assets/c8b5d153-e954-4a53-8fac-125b3b958149)
+![PARTE 057 - FSMO](https://github.com/user-attachments/assets/7e319387-5659-438e-81b7-6d0ffa8a5f1f)
+![PARTE 058 - FSMO](https://github.com/user-attachments/assets/8bcf9540-b3c2-46cf-9fbc-50464a5ce1ef)
+![PARTE 059 - FSMO](https://github.com/user-attachments/assets/4fe7c85f-3483-4650-9457-a4fb3d661a34)
+![PARTE 060 - FSMO](https://github.com/user-attachments/assets/d28b9175-ec8f-4ba6-93c7-abdb01882488)
+![PARTE 061 - ENTRA CONNECT START](https://github.com/user-attachments/assets/c58db942-67c4-45f0-9efe-2efcbee92b84)
+![PARTE 062 - ENTRA CONNECT DELTA](https://github.com/user-attachments/assets/2db06544-7327-417a-acc8-c761ff6482cc)
+![PARTE 063 - ENTRA CONNECT DELTA](https://github.com/user-attachments/assets/9cb5e49e-97d8-44e5-8e3e-d5d839f62834)
+![PARTE 064 - ENTRA CONNECT DELTA](https://github.com/user-attachments/assets/6397f360-18ce-4fe8-b552-8fdc7ec15689)
+![PARTE 065 - ENTRA CONNECT DELTA](https://github.com/user-attachments/assets/16ed352e-f432-4412-a6c1-f3f17eda3867)
+![PARTE 066 - ENTRA CONNECT DELTA](https://github.com/user-attachments/assets/1896557a-a2e5-49bb-af6c-fb7c51c35e83)
+![PARTE 067 - ENTRA CONNECT DELTA](https://github.com/user-attachments/assets/80c7d7de-3bff-4fb9-9ad4-7b8e0da879a8)
+![PARTE 068 - DEMOTE](https://github.com/user-attachments/assets/0c98c274-75b8-4f4a-ac11-57c2cd85a3ab)
+![PARTE 069 - DEMOTE](https://github.com/user-attachments/assets/27a83aa0-b107-4818-b2aa-a54a0ac0b4f4)
+![PARTE 070 - DEMOTE](https://github.com/user-attachments/assets/bbfa0c7e-12de-4654-8f67-5c937f26b020)
+![PARTE 071 - DEMOTE](https://github.com/user-attachments/assets/cefd5557-c967-4702-a2d7-2ca2f872cfb8)
+![PARTE 072 - DEMOTE](https://github.com/user-attachments/assets/594b84f5-7969-4301-a664-c54957b36f4f)
+![PARTE 073 - DEMOTE](https://github.com/user-attachments/assets/57442e3a-ddfc-4ea1-839b-5fa59821bc6d)
+![PARTE 074 - DEMOTE](https://github.com/user-attachments/assets/edb48036-f87a-4de1-977b-c330c656e1fa)
+![PARTE 075 - DEMOTE](https://github.com/user-attachments/assets/2cc64502-c5ea-4677-8fd6-9c1db37d770f)
+![PARTE 076 - DEMOTE](https://github.com/user-attachments/assets/548b1630-15de-47a1-9b3b-29d14b0839cc)
+![PARTE 077 - DEMOTE](https://github.com/user-attachments/assets/e4ee580c-404b-4a97-b805-90b50e675cb0)
+![PARTE 078 - DEMOTE](https://github.com/user-attachments/assets/3bcf9838-37bc-491d-9d60-ae7c710fe495)
+
+
+
+
+
+
+
+
+
