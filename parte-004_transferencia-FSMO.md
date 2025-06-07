@@ -130,3 +130,7 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
  *****************************
              PRINTS - TRANSF. FSMO e Despromoção do Controlador de domínio antigo (ADDS-000)
  ******************************
+
+ - Realizado a pausa do serviço de sincronização do Entra-ID:
+ - COMANDO : Get-ADSyncScheduler (para checar o serviço)
+ - COMANDO : Set-ADSyncScheduler -SyncCycleEnabled $false (para parar o serviço)
