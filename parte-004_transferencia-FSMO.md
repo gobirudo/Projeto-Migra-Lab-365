@@ -65,8 +65,13 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
  
 ---
 
+- CONFIGURAÇÃO DO FILESERVER COM O STORAGE
+- SOFTWARE UTILISADO: HP P4000 Centralized Management Console
+- Criado uma Lun e atribuída ao VEEAM
 ![PARTE 001 - STORAGE LUN](https://github.com/user-attachments/assets/193a43a8-10ff-41db-a736-174c43ddb59b)
 ![PARTE 002 - VEEAM LUN](https://github.com/user-attachments/assets/fe0f4252-43df-43b3-b613-1aff78ea1df7)
+
+- Criado o disco para servir de repositório dos backups.
 ![PARTE 003 - VEEAM DISK](https://github.com/user-attachments/assets/71857b5f-466e-4e96-9247-6508732121b4)
 ![PARTE 004 - VEEAM BACKUP](https://github.com/user-attachments/assets/d5952899-c7e4-4adc-87a9-ed0fc7fa756f)
 ![PARTE 005 - VEEAM BACKUP](https://github.com/user-attachments/assets/e276319b-cdba-4308-a282-787f5d75bcfc)
