@@ -126,3 +126,7 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
 
 - Fiz um Snapshot para + garantia de restore rápido.
 ![PARTE 048 - SNAPSHOT](https://github.com/user-attachments/assets/e39406c2-25da-4ebc-b4d3-d3716cbe8ac7)
+
+ *****************************
+             PRINTS - TRANSF. FSMO e Despromoção do Controlador de domínio antigo (ADDS-000)
+ ******************************
