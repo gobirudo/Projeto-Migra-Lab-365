@@ -73,6 +73,8 @@ Status final: Ambiente AD atualizado, redundante, com servidores modernos e repl
 
 - Criado o disco para servir de repositório dos backups.
 ![PARTE 003 - VEEAM DISK](https://github.com/user-attachments/assets/71857b5f-466e-4e96-9247-6508732121b4)
+
+- Abaixo segue as etapas utilizadas para configuração dos backups.
 ![PARTE 004 - VEEAM BACKUP](https://github.com/user-attachments/assets/d5952899-c7e4-4adc-87a9-ed0fc7fa756f)
 ![PARTE 005 - VEEAM BACKUP](https://github.com/user-attachments/assets/e276319b-cdba-4308-a282-787f5d75bcfc)
 ![PARTE 006 - VEEAM BACKUP](https://github.com/user-attachments/assets/50ed3ea1-68b9-4d67-80df-b7db7a665907)
